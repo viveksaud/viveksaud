@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @viveksaud
-- 👀 I’m interested in web development, app development, AI, ML, cybersecurity,etc etc.Actually I'm interested in every topic related computer and IT.
+- 👀 I’m interested in web development, app development, AI, ML, cybersecurity,etc etc.Actually I'm interested in every topic related to computer and IT.
 - 🌱 I’m currently learning python and javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
