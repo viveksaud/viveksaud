@@ -1,6 +1,14 @@
 - 👋 Hi, I’m @viveksaud
 - Web Developer
 - 👀 AI
+- ![](https://komarev.com/ghpvc/?username=viveksaud)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=viveksaud&theme=highcontrast)](https://git.io/streak-stats)
+
+![a](https://github-readme-stats-seven-phi-44.vercel.app/api?username=viveksaud&show_icons=true&locale=en&theme=highcontrast)
+
+![aa](https://github-readme-stats-seven-phi-44.vercel.app/api/top-langs?username=viveksaud&show_icons=true&locale=en&layout=compact&theme=highcontrast)
+
 <!---
 - 👀 I’m interested in web development, app development, AI, ML, cybersecurity,etc etc.Actually I'm interested in every topic related to computer and IT.
 
