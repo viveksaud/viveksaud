@@ -5,9 +5,9 @@
 - ![](https://komarev.com/ghpvc/?username=viveksaud)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=viveksaud&theme=highcontrast)](https://git.io/streak-stats)
-
+<!--
 ![a](https://github-readme-stats-seven-phi-44.vercel.app/api?username=viveksaud&show_icons=true&locale=en&theme=highcontrast)
-
+-->
 ![aa](https://github-readme-stats-seven-phi-44.vercel.app/api/top-langs?username=viveksaud&show_icons=true&locale=en&layout=compact&theme=highcontrast)
 
 <!---
