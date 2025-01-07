@@ -1,3 +1,4 @@
+![](https://www.canva.com/design/DAGbguq9cpg/wEPL_RueFtzdZcWqaRQv7w/view?utm_content=DAGbguq9cpg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h97ffe03500)
 - 👋 Hi, I’m @viveksaud | KarmaCoder
 - Full-Stack Developer
 - 👀 AI
