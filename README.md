@@ -1,8 +1,4 @@
-<p align=”center”>
-
-<img width=”200" height=”200" src=”https://github.com/viveksaud/viveksaud/blob/59c35a723b296c080b0632de1579149b9a078ae6/final-%20Blue%20And%20Green%20Bold%20Profile%20LinkedIn%20Background%20Photo.png" alt=”my banner”>
-
-</p>
+![Header](./final- Blue And Green Bold Profile LinkedIn Background Photo.png)
 - 👋 Hi, I’m @viveksaud | KarmaCoder
 - Full-Stack Developer
 - 👀 AI
