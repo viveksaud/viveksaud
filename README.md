@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./header.png)
 - 👋 Hi, I’m @viveksaud | KarmaCoder
 - Full-Stack Developer
 - 👀 AI
