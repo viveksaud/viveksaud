@@ -1,4 +1,4 @@
-![Header](./final- Blue And Green Bold Profile LinkedIn Background Photo.png)
+![Header](./github-header-image.png)
 - 👋 Hi, I’m @viveksaud | KarmaCoder
 - Full-Stack Developer
 - 👀 AI
