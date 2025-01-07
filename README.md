@@ -1,4 +1,8 @@
-![]([https://www.canva.com/design/DAGbguq9cpg/wEPL_RueFtzdZcWqaRQv7w/view?utm_content=DAGbguq9cpg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h97ffe03500](https://github.com/viveksaud/viveksaud/blob/main/final-%20Blue%20And%20Green%20Bold%20Profile%20LinkedIn%20Background%20Photo.png))
+<p align=”center”>
+
+<img width=”200" height=”200" src=”https://github.com/viveksaud/viveksaud/blob/59c35a723b296c080b0632de1579149b9a078ae6/final-%20Blue%20And%20Green%20Bold%20Profile%20LinkedIn%20Background%20Photo.png" alt=”my banner”>
+
+</p>
 - 👋 Hi, I’m @viveksaud | KarmaCoder
 - Full-Stack Developer
 - 👀 AI
