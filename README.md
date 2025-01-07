@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @viveksaud
-- Full Stack Web Developer
+- 👋 Hi, I’m @viveksaud | KarmaCoder
+- Full-Stack Developer
 - 👀 AI
 - ![](https://komarev.com/ghpvc/?username=viveksaud)
 
